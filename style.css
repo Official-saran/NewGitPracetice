@@ -1,0 +1,15 @@
+body{
+    background-color: #1ca034;
+}
+
+h3{
+    color: #f7f7f7;
+    padding: 10px 10px;
+    background-color: rgb(58, 73, 73);
+    justify-self: center;
+    text-align: center;
+    border-radius: 3rem;
+    max-width: 100%;
+    cursor: pointer;
+   
+}
